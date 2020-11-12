@@ -1,0 +1,3 @@
+# A2D2: Audi Autonomous Driving Dataset
+
+An open multi-sensor dataset for autonomous driving research. This dataset comprises semantically segmented images, semantic point clouds, and 3D bounding boxes. In addition, it contains unlabelled 360 degree camera images, lidar, and bus data for three sequences. We hope this dataset will further facilitate active research and development in AI, computer vision, and robotics for autonomous driving.

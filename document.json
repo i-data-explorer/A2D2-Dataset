@@ -1,0 +1,38 @@
+{
+  "name": "Audi Autonomous Driving Dataset(A2D2)",
+  "description": "An open multi-sensor dataset for autonomous driving research. This dataset comprises semantically segmented images, semantic point clouds, and 3D bounding boxes. In addition, it contains unlabelled 360 degree camera images, lidar, and bus data for three sequences. We hope this dataset will further facilitate active research and development in AI, computer vision, and robotics for autonomous driving.",
+  "logo": "_images/dataset.png",
+  "has_supporting_content": false,
+  "stack_id": "a2d2-dataset",
+  "type": "dataset-s3",
+  "categories": [
+    "General"
+  ],
+  "platform": "Kubernetes",
+  "cover": "cover.md",
+  "commands": [],
+  "display": [
+    {
+      "name": "Developer Dashboard",
+      "url": "##DNS.host##/codeserver",
+      "enabled": true
+    }
+  ],
+  "buckets": [
+    "aev-autonomous-driving-dataset"
+  ],
+  "meta": {
+    "Install time": [
+      "2 minutes"
+    ],
+    "Type": [
+      "Dataset",
+      "S3"
+    ],
+    "Tag": [ "S3" ],
+    "categories": [
+      "General"
+    ]
+  },
+  "isDocumentSaved": true
+}
