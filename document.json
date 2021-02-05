@@ -22,7 +22,7 @@
     "aev-autonomous-driving-dataset"
   ],
   "meta": {
-    "Install time": [
+    "Install Time": [
       "2 minutes"
     ],
     "Type": [
@@ -31,6 +31,15 @@
     "Tag": [ "S3" ],
     "categories": [
       "General"
+    ],
+    "Update Frequency": [
+      "Monthly"
+     ],
+    "Last Updated": [
+      "01/01/2021"
+    ],
+    "License": [
+      "N/A"
     ]
   },
   "isDocumentSaved": true
